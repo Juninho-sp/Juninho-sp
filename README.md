@@ -32,5 +32,3 @@
 
 ![snake gif](https://github.com/juninho-sp/juninho-sp/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats-vercel.app/api/pin/?username=juninho-sp&repo=juninho-sp&theme=react)](htpps://github.com/juninho-sp/juninho-sp)
-
