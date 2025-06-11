@@ -13,14 +13,8 @@
 
   </div>
 <div style="display: inlineblock"> <br>
-  <style>
-  figure.icones {
-  background-color: rgba(0, 0, 0, 0.4);
-  box-sizing: border-box;
-  opacity: 0;
-  transition: opacity 1s;}
-  </style>
-  <style>
+  
+  <div style>
     figure.icone: hover{
       opacity: 1s;
     }
