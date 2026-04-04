@@ -2,7 +2,7 @@
 
 👦🏻Aqui você verá um pouco sobre mim
 
-- 🪖 Atualmente Soldado da Força Aérea Brasileira
+- 👨🏻‍💻 Atualmente Assistente de TI Nível 1
 - 🖥️ Trabalho no setor de Tecnologia da informação
 - 👨🏻‍🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 👨🏻‍💻 Estudando atualmente IA e Machine Learning
